@@ -177,7 +177,7 @@ By completing this project, learners will:
 
 ---
 
-## ✅ Team Roles and Responsibilities
+##  Team Roles
 Objective: Define responsibilities across the team.
 
 - Create a Team Roles section (below) and include brief descriptions:
@@ -204,7 +204,7 @@ Objective: Define responsibilities across the team.
 
 ## 🌟 Key Highlights
 
-### ⚙️ Technology Stack Breakdown
+### ⚙️ Technology Stack
 Explore the **technologies** used in a scalable project and their specific contributions to achieving project goals.
 - Django: Web framework powering the backend, ORM, and admin; ideal for rapid, secure API development.
 
@@ -226,7 +226,7 @@ Explore the **technologies** used in a scalable project and their specific contr
 
 - OpenAPI / GraphQL Schema: Machine‑readable API contracts for documentation and client generation.
 
-### 🗄️ Database Design Proficiency
+### 🗄️ Database Design
 Plan and document a **relational database structure** with entities, attributes, and relationships that mirror **real-world requirements**.
 Create a Database Design section (below) including entities (3–5 key fields each) and relationships. Example:
 
@@ -265,7 +265,7 @@ Create a Database Design section (below) including entities (3–5 key fields ea
 
 - A Review belongs to a Booking and is authored by a User.
 
-### 🚀 Feature-Driven Development
+### 🚀 Feature Breakdown
 Identify and describe **core features** of the application, focusing on their relevance to the **user experience** and **business logic**.
 Create a Feature Breakdown section (below) including:
 
@@ -285,7 +285,7 @@ Create a Feature Breakdown section (below) including:
 
 - Admin & Moderation: Admin dashboard to manage users, listings, disputes, payouts; ensures platform integrity.
 
-### 🔐 API Security Fundamentals
+### 🔐 API Security
 Implement and document **key security measures** to safeguard application data and ensure **secure transactions**.
 #### Create an API Security section (below) describing:
 
@@ -301,7 +301,7 @@ Implement and document **key security measures** to safeguard application data a
 
 - Secrets Management: Environment variables via GitHub Actions + encrypted secrets; never commit sec
 
-### 🔄 CI/CD Pipeline Integration
+### 🔄 CI/CD Pipeline
 Gain insights into setting up **automated development pipelines**, boosting efficiency and minimizing errors during deployment.
 
 #### CI (Continuous Integration): Automatically tests, lints, and validates all code changes before merging.
