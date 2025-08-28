@@ -73,4 +73,4 @@ timestamptz sent_at
 } -->
 
 <!-- ![ENTITY RELATIONSIP DIGRAM OF AIRBNB](AirboneERD.png"AIRBNB ERD") -->
-![ENTITY RELATIONSHIP DIAGRAM OF AIRBNB](airbnb.png)
+![ENTITY RELATIONSHIP DIAGRAM OF AIRBNB](./airbnb.png)
