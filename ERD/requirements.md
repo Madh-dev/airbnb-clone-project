@@ -72,4 +72,5 @@ text message_body
 timestamptz sent_at
 } -->
 
-![ENTITY RELATIONSIP DIGRAM OF AIRBNB](AirboneERD.png"AIRBNB ERD")
+<!-- ![ENTITY RELATIONSIP DIGRAM OF AIRBNB](AirboneERD.png"AIRBNB ERD") -->
+![ENTITY RELATIONSHIP DIAGRAM OF AIRBNB](AirboneERD.png)
