@@ -1,4 +1,4 @@
-<!-- erDiagram
+erDiagram
 USER ||--o{ PROPERTY : hosts
 USER ||--o{ BOOKING : makes
 PROPERTY ||--o{ BOOKING : is_booked_in
@@ -70,7 +70,7 @@ uuid sender_id FK
 uuid recipient_id FK
 text message_body
 timestamptz sent_at
-} -->
+}
 
 <!-- ![ENTITY RELATIONSIP DIGRAM OF AIRBNB](AirboneERD.png"AIRBNB ERD") -->
-![ENTITY RELATIONSHIP DIAGRAM OF AIRBNB](./airbnb.jpg)
+<!-- ![ENTITY RELATIONSHIP DIAGRAM OF AIRBNB](./airbnb.jpg) -->
